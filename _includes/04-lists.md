@@ -1,5 +1,5 @@
-- [ ] Run
-- [ ] Cook
-- [ ] Code
-- [ ] Diner out
-- [ ] Watch movie
+-[ ] Run
+-[ ] Cook
+-[ ] Code
+-[ ] Diner out
+-[ ] Watch movie
