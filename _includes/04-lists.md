@@ -1,7 +1,7 @@
-- [] Run
-- [] Cook
-- [] Code
-- [] Diner out
-- [] Watch movie
-- [] BBQ
-- [] Basketball
+- [ ] Run
+- [ ] Cook
+- [ ] Code
+- [ ] Diner out
+- [ ] Watch movie
+- [ ] BBQ
+- [ ] Basketball
