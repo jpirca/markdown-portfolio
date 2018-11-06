@@ -1,1 +1,1 @@
-# <a href="https://github.com/jpirca">Link to Profile</a>
+![Link to Profile](https://github.com/jpirca)
