@@ -1,1 +1,1 @@
-![Link to Profile](https://github.com/jpirca)
+[Link to Profile](https://github.com/jpirca)
