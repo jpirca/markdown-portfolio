@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Full stack programmer** with over *10 years* experience on IT
+*Knowledge and experience* managing IT project
+
